@@ -32,11 +32,11 @@ Please see run.sh and follow the given commands to run the code on datasets unde
 
 ## Reference
 
-Welcome to kindly cite our work with:
-@inproceedings{yuan2025structure,
-  title={A Structure-aware Invariant Learning Framework for Node-level Graph OOD Generalization},
-  author={Yuan, Ruiwen and Tang, Yongqiang and Zhang, Wensheng},
-  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
-  pages={1879--1890},
-  year={2025}
-}
+Welcome to kindly cite our work with:  
+@inproceedings{yuan2025structure,  
+  title={A Structure-aware Invariant Learning Framework for Node-level Graph OOD Generalization},  
+  author={Yuan, Ruiwen and Tang, Yongqiang and Zhang, Wensheng},  
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},  
+  pages={1879--1890},  
+  year={2025}  
+}  
