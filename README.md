@@ -23,7 +23,7 @@ tensorboard==2.8.0
 tqdm==4.64.0  
 
 ## Download the datasets
-The transductive datasets are provided by the [GOOD-benchmark](https://github.com/divelab/GOOD/tree/main). For Inductive datasets, we use the datasets from [LisA](https://github.com/Samyu0304/LiSA). For convenience, we have uploaded the zipped dataset to the [Google Drive link](https://drive.google.com/file/d/185y6roFQtMdqMaqcZd6eSijTZ-1H2uhh/view?usp=drive_link). For transductive datasets and OGB-Arxiv, you can download and unzip them to the directory './arxiv/data'. For inductive Elliptic and Twitch-Explicit, the datasets can be downloaded to directories './elliptic/data' and './multigraph/data', respectively.  
+The transductive datasets are provided by the [GOOD-benchmark](https://github.com/divelab/GOOD/tree/main). For Inductive datasets, we use the datasets from [LisA](https://github.com/Samyu0304/LiSA). For convenience, we have uploaded the zipped dataset to the [Google Drive link](https://drive.google.com/drive/folders/1f08Ra6uVWs72QHkas76D4VKdT5RRlSGk?usp=drive_link). For transductive datasets and OGB-Arxiv, you can download and unzip them to the directory './arxiv/data'. For inductive Elliptic and Twitch-Explicit, the datasets can be downloaded to directories './elliptic/data' and './multigraph/data', respectively.  
 
 
 ## Instructions to run the code
